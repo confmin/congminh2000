@@ -1,2 +1,0 @@
-# code by mjk
-#congminh
