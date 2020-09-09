@@ -7,7 +7,7 @@ if(isset($_GET['action']))
 }
 else
 {
-    $action = null ;
+    $action = '' ;
 }
 
 switch ($action) {
