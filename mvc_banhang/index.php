@@ -20,5 +20,4 @@ switch($controller)
         {
             require_once('controller/admin/admincontroller.php');
         }
-} 
-?>
+}
